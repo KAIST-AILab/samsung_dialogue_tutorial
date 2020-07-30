@@ -9,7 +9,7 @@
 
 (a) ConvLab과 함께 repository를 clone
 ```
-git clone --recurse-submodules https://github.com/KAIST-AILab/samsung_dialogue_tutorial.git
+git clone --recurse-submodules https://github.com/tzs930/samsung_dialogue_tutorial.git
 ```
 (b) Anaconda Environment를 생성
 ```
