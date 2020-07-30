@@ -5,7 +5,7 @@
 
 0. 환경세팅
 
-> (실습조교) 이 부분은 나중에 실습실 서버에 모두 설치한 후 지우도록 합시다. ConvLab-2를 `requiremets.txt`로 한번에 설치할 수 없어서 아래와 같이 git submodule로 받아온 후 설치해야 합니다.
+> (실습조교) 이 부분은 나중에 실습실 서버에 모두 설치한 후 지우도록 합시다. ConvLab-2를 `environment.yaml`로 한번에 설치할 수 없어서 아래와 같이 git submodule로 받아온 후 설치해야 합니다.
 
 (a) ConvLab과 함께 repository를 clone
 ```
@@ -13,7 +13,7 @@ git clone --recurse-submodules https://github.com/tzs930/samsung_dialogue_tutori
 ```
 (b) Anaconda Environment를 생성
 ```
-conda env create -f requirements.txt
+conda env create -f environment.yaml
 ```
 (c) Anaconda Environment 활성화
 ```
