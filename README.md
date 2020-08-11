@@ -29,23 +29,8 @@ pip install -e ./ConvLab-2
 conda activate 0813_dialogue_system
 ```
 -----------
-1. TRADE 모델을 활용한 대화상태 추적 (Dialogue State Tracking)
-- 논문 정보 : Wu, Chien-Sheng, et al. *"Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems."* ACL 2019.
-- 논문 링크 : https://arxiv.org/pdf/1905.08743.pdf
-- 실습 파일 : `pratice1_TRADE.ipynb`
+**실습 1.** BERT-NLU 구현 및 평가해보기 
 
------------
+**실습 2.** ConvLab을 활용한 Pipelined 대화시스템 실습
 
-2. LaRL 모델을 활용한 대화정책 학습 (Dialogue Policy Learning)
-- 논문 정보 :
-- 논문 링크 : 
-
------------
-3. End-to-End 대화 에이전트 학습 : Neural Pipeline
-- 논문 정보 :
-- 논문 링크 : 
-
------------
-4. ConvLab2 Interaction
-- 논문 정보 :
-- 논문 링크 :
+**실습 3.** ConvLab을 활용한 End-to-End 대화시스템 실습 
