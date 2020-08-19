@@ -8,5 +8,6 @@ dependencies:
   - jupyter_client=6.1.6=py_0
   - jupyter_core=4.6.3=py37_0  
   - python=3.7.7=hcff3b4d_5
+  - jupyter
 prefix: ~/anaconda3/envs/0813_dialogue_system
 
